@@ -1,0 +1,63 @@
+body {
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+th:hover {
+  color: greenyellow;
+}
+tr:hover {
+  color: greenyellow;
+}
+p:hover {
+  color: greenyellow;
+}
+li:hover {
+  color: greenyellow;
+}
+hr {
+  background-color: black;
+  border-style: dotted none none;
+  width: 5%;
+  border-color: white;
+  border-width: 4px;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: aquamarine;
+}
+h1:hover {
+  color: greenyellow;
+}
+
+h3 {
+  color: aquamarine;
+}
+h3:hover {
+  color: greenyellow;
+}
+em {
+  color: red;
+}
+em:hover {
+  color: greenyellow;
+}
+img {
+  height: 30%;
+  width: 30%;
+  border-style: double;
+  border-color: firebrick;
+}
+
+a {
+  color: aquamarine;
+}
+
+.clr {
+  color: gold;
+}
+
+.heartclr {
+  color: red;
+}
